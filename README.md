@@ -4,6 +4,10 @@
 
 NYC 311's mission is to provide quick and easy access to all New York City government services and information while offering the best customer service. This project involves analyzing service request data to uncover patterns and insights.
 
+## Dataset 
+
+i have used the NYC 311 Customer Service Request analysis dataset hosted on Kaggle. you can find the dataset [here](https://www.kaggle.com/datasets/shubhammore12/nyc-311-customer-service-requests-analysis) 
+
 ## Objectives
 
 The objectives of this project include:
